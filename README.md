@@ -7,3 +7,6 @@ Learning
 -  Avoiding Smoothing
 -  FFT features
 -  https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/84713#latest-524562
+-  https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/89513#latest-522456
+
+
