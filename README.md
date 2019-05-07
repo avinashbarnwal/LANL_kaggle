@@ -13,3 +13,9 @@ LANL Kaggle
 **Other Loss Functions**
 
 - https://stackoverflow.com/questions/45006341/xgboost-how-to-use-mae-as-objective-function
+
+**Speed Up Reading**
+
+- https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/91572
+
+RNN for Starters
