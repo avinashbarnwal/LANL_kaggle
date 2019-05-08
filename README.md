@@ -18,4 +18,8 @@ LANL Kaggle
 
 - https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/91572
 
+**Feature Engineering**
+
+- 
+
 RNN for Starters
