@@ -23,3 +23,10 @@ LANL Kaggle
 - 
 
 RNN for Starters
+
+
+
+**Reading Big Data**
+
+Using Pandas
+- iter_df = pd.read_csv(self.filename, iterator=True, chunksize=self.chunk_size,dtype={'acoustic_data': np.float64,   'time_to_failure': np.float64})
