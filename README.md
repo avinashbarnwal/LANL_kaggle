@@ -39,3 +39,4 @@ Using Pandas
 - [10th Rank] https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/94466#latest-546962
 - [1st Rank] https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/94390#latest-546719
 - [16th Rank] https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/94396#latest-546494
+- [3rd Rank] https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/94459#latest-547313
