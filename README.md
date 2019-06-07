@@ -30,3 +30,7 @@ RNN for Starters
 
 Using Pandas
 - iter_df = pd.read_csv(self.filename, iterator=True, chunksize=self.chunk_size,dtype={'acoustic_data': np.float64,   'time_to_failure': np.float64})
+
+**Results**
+
+- [11th Rank] https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/94363
