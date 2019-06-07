@@ -33,10 +33,18 @@ Using Pandas
 
 **Results**
 
-- [11th Rank] https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/94363
-- [2nd Rank] https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/94369#latest-547200
-- [7th Rank] https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/94407#latest-547090
-- [10th Rank] https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/94466#latest-546962
+
 - [1st Rank] https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/94390#latest-546719
-- [16th Rank] https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/94396#latest-546494
+- [2nd Rank] https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/94369#latest-547200
 - [3rd Rank] https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/94459#latest-547313
+- [5th Rank] https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/94484
+- [6th Rank] https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/94433
+- [7th Rank] https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/94359
+- [7th Rank] https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/94408
+- [7th Rank] https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/94407#latest-547090
+- [8th Rank] https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/94718
+- [9th Rank] https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/94609
+- [10th Rank] https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/94466#latest-546962
+- [11th Rank] https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/94363
+- [16th Rank] https://www.kaggle.com/c/LANL-Earthquake-Prediction/discussion/94396#latest-546494
+
